@@ -1,57 +1,54 @@
 <h1 align="center">Hey there 👋, I'm Mostafa Khattab</h1>
-<p align="center">💡 ISTQB-certified QA professional, backend tinkerer, and curious problem-solver.</p>
+<p align="center">💡 ISTQB-certified QA professional, curious problem-solver, and backend tinkerer.</p>
 
 ---
 
 ### 🛠️ About Me
 
-I'm a software engineer who thrives on making systems cleaner, faster, and easier to maintain.  
-From migrating a legacy C# system into a sleek no-code platform, to designing bulletproof test plans, I believe quality software is built on both structure and collaboration.
-
-I don’t just test — I improve, automate, and find better ways to connect logic with purpose.
+I’m a software engineer who thrives on turning complex problems into clean, reliable, and efficient solutions.  
+From migrating legacy systems in **C#** to crafting robust test plans, I enjoy bridging the gap between development and quality.  
+I believe good software is more than code — it’s about structure, collaboration, and continuous improvement.
 
 ---
 
 ### ⚙️ Tech Playground
 
 * **Languages:**        C++, .NET (C#), Java, Python, Flutter  
-* **Backend:**          ASP.NET Core, JSON-driven systems  
-* **Frontend:**         Flutter, HTML, CSS, JavaScript (vanilla-style)  
-* **Databases:**        Firebase, SQL Server, MySQL  
-* **QA & Testing:**     Test plan design, defect lifecycle, Agile/Waterfall  
-* **Toolbox:**          Git, Visual Studio, VS Code, Azure, Jira, NetBeans, Eclipse  
+* **Backend & Tools:**  ASP.NET Core, JSON-based systems, Azure, Jira  
+* **Frontend:**         Flutter, HTML, CSS, JavaScript (vanilla)  
+* **Databases:**        Firebase, SQL-based systems  
+* **QA & Testing:**     Test plan design, defect lifecycle management, Agile/Waterfall  
+* **Toolbox:**          Git, Visual Studio, VS Code, NetBeans, Eclipse  
 
 ---
 
 ### 🌱 Growing Into...
 
-- 🐳 **Docker** & **Kubernetes** — because “it works on my machine” isn’t enough  
-- 🤖 Automation in QA pipelines — work smarter, break less  
-- 💬 Contributing to open-source testing tools — real problems, real people, real fixes  
+- 🐳 **Selenium** & **Azure** for smoother deployments  
+- 🧩 Deeper automation in QA pipelines  
+- 🤝 Contributing to open-source testing tools  
 
 ---
 
-### ✨ Some Things I’ve Built or Broke (and Fixed)
+### ✨ Projects & Highlights
 
-- 🧾 Migrated a legacy **C#** system to a maintainable in-house **No Code Map Tool (NCMT)**  
-- 🧼 Designed & executed **comprehensive test plans** to ensure high-quality releases  
-- 📍 Built a **Parking Recommender App** using **Flutter**, **Firebase**, and **Python**  
-- 🚀 Maintained and optimized in-house tools while training new team members  
+- 🧾 **NCMT Migration** – Successfully migrated a legacy **C#** system into a no-code map tool, improving maintainability and speed.  
+- 🧼 **QA Leadership** – Designed and executed test plans, mentored new hires, and ensured quality at every release.  
+- 📍 **Parking Recommender System** – A **Flutter** app with **Firebase** backend and Python-based ranking logic, helping users find the best parking spots.  
 
 ---
 
 ### 🌍 A Few Fun Bits About Me
 
-- 📐 I treat test cases like puzzles — every scenario should fit perfectly  
-- 🎮 Mid laner in **League of Legends**, strategist on and off the Rift  
-- 🚗 **Diamond rank in Rocket League** — car soccer is serious business  
-- ✈️ Once flew to Munich — discovered debugging is a universal language  
+- 📐 I treat test cases like puzzles — every scenario must fit perfectly.  
+- 🎮 Gamer at heart — strategy and teamwork are my natural zones.  
+- ✈️ I enjoy learning from different tech cultures and approaches.  
 
 ---
 
 ### 📫 Let's Connect
 
-> I’m always open to new ideas, collaborations, or a good tech conversation.
+> I’m always up for new ideas, collaborations, or a good tech conversation.
 
 - 📧 **Email:** mostafaseedkhattab@gmail.com  
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/mostafasaeedkhattab)  
